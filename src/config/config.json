@@ -1,0 +1,18 @@
+{
+  "secret": "ZFASHION2017!@#$",
+  "audience": "nodejs-jwt-auth",
+  "issuer": "https://gonto.com",
+
+  "GGAPI" : {
+    "clientID": "949628732737-cc0ql1o12pu8llfts0a2obubskbnk965.apps.googleusercontent.com",
+    "clientSecret": "DgBy8K7ym0oz-znvX87Q35pv",
+    "callbackURL": "/auth/google/callback"
+  },
+
+  "FBAPI" : {
+    "appId": "1980561858851702",
+    "clientSecret": "98cc334e5485f719cc014b7e5db56798",
+    "callbackURL": "/auth/facebook/callback"
+}
+
+}
